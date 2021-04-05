@@ -1,0 +1,12 @@
+.content_div{
+    grid-area: content;
+    background-color: silver;
+}
+
+.posts{
+    padding: 20px;
+}
+
+.profile_info{
+    padding: 20px;
+}

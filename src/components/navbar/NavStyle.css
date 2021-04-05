@@ -1,0 +1,29 @@
+
+.nav_main {
+    background-color: skyblue;
+
+}
+
+.nav_wrapper {
+    grid-area: nav;
+    margin: 10px;
+    padding: 20px;
+}
+
+.nav_wrapper a {
+    color: white;
+    margin: 60px 0;
+}
+
+.items {
+    padding: 5px 0;
+}
+
+.nav_wrapper a:hover{
+    color: black;
+}
+
+.nav_wrapper a.active{
+    color: black;
+}
+

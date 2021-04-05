@@ -1,0 +1,10 @@
+.header_div{
+    background-color: skyblue;
+    grid-area: header;
+}
+
+.header_div img{
+    width: 60px;
+    height: 30px;
+    margin: 10px;
+}
